@@ -1,3 +1,5 @@
+DEPRECATED: The maplibre community map moved to https://gibhub.com/maplibre/community.
+
 # maplibre-community-map
 Map of MapLibre community members. 
 
